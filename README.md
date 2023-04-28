@@ -4,7 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/ErnestH1?style=social)](https://github.com/ErnestH1)
 
-I'm currently a Software Engineering student at Moringa School. Here's a peek at my professional life timeline!
+I'm a Fullstack Software Developer from Moringa School. Here's a peek at my professional life timeline!
 
 
 <!-- - Frelance Software developer:[@upwork](https://upwork.com), [@fiverr](https://fiverr.com) -->
@@ -18,7 +18,7 @@ I'm currently a Software Engineering student at Moringa School. Here's a peek at
 
 :computer: Tech Stack: 
 
- - 💬 Ask me anything about Full-Stack web development, Mobile App Development, Music & Chess!
+ - 💬 Ask me anything about Full-Stack web development, Music & Chess!
  - ❤️ I love contributing and collaborating!
 
 <br/>
@@ -26,14 +26,14 @@ I'm currently a Software Engineering student at Moringa School. Here's a peek at
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<!-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
+<!-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) -->
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=white)
 ![WordPress](https://img.shields.io/badge/wordpress-6DA55F?style=for-the-badge&logo=wordpress&logoColor=blue)
 ![Python](https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=blue)
-![Flutter](https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![CSS3](https://img.shields.io/badge/neo4j-%231572B6.svg?style=for-the-badge&logo=neo4j&logoColor=white)
+<!-- ![Flutter](https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![CSS3](https://img.shields.io/badge/neo4j-%231572B6.svg?style=for-the-badge&logo=neo4j&logoColor=white) -->
 
 </br>
 
