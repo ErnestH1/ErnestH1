@@ -31,6 +31,7 @@ I'm a Fullstack Software Developer from Moringa School. Here's a peek at my prof
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=white)
 ![WordPress](https://img.shields.io/badge/wordpress-6DA55F?style=for-the-badge&logo=wordpress&logoColor=blue)
+![Shopify](https://img.shields.io/badge/shopify-6DA55F?style=for-the-badge&logo=shopify&logoColor=blue)
 ![Python](https://img.shields.io/badge/python-6DA55F?style=for-the-badge&logo=python&logoColor=blue)
 <!-- ![Flutter](https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![CSS3](https://img.shields.io/badge/neo4j-%231572B6.svg?style=for-the-badge&logo=neo4j&logoColor=white) -->
